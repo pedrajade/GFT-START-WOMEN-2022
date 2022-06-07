@@ -1,0 +1,33 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
+ */
+
+package com.mycompany.testecaixa;
+
+import java.util.Scanner;
+
+/**
+ *
+ * @author jadec
+ */
+          
+        public static void main(String[] args) {
+
+        public class Produto{
+        int i;
+        String texto = "nome";
+        double valor;
+        Scanner ler;
+        
+        ler = new Scanner(System.in);
+        for(i=1, i<=4; i++); 
+}
+        
+     public class Caixa{
+         Produto banana;
+        double = calculaValorFinal;
+        System.out.println("Produto banana: " + calculaValorFinal(banana, 3));
+     }
+        
+      }
