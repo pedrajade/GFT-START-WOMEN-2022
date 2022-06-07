@@ -1,0 +1,29 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
+ */
+
+package com.mycompany.testedeznumeros;
+
+/**
+ *
+ * @author jadec
+ */
+public class Testedeznumeros {
+
+    public static void main(String[] args) {
+        
+         
+        int i;
+        double maiorNumero;
+        double menorNumero;
+        
+        System.out.println("Inserir primeiro numero");
+        scanf("%i", &numero);
+        for (i=0; i<10; i++);
+        
+        System.out.println("Inserir segundo numero", i+1);
+              
+    //    System.out.println("Hello World!");
+    }
+}
